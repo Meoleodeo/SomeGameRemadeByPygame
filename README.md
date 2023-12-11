@@ -4,10 +4,10 @@
 - Some game remade by pygame (Python)
 > [_Video-Demo_](https://youtube.com/playlist?list=PLHhux1PVu8qWNR2Lbs-W5llJIHA8dggBl&si=Nhng9Ti1wXbfj9Qz)
 ## Game list:
-> - [x] [Flappy brid](#flappy-brid)
-> - [x] [Snake](#snake)
-> - [x] [Ninja run](#ninja-run)
-> - [x] [Train "click"](#train-click)
+> - [x] [Flappy brid](#flappy-brid-view-here)
+> - [x] [Snake](#snake-view-hereke)
+> - [x] [Ninja run](#ninja-run-view-herenja-run)
+> - [x] [Train "click"](#train-click-view-herelick)
 ## Install:
 ```bash
 git clone https://github.com/Meoleodeo/SomeGameRemadeByPygame
@@ -16,7 +16,7 @@ pip install pygame
 echo thanks
 ```
 # Screenshot:
-[Flappy brid](#flappy-brid) | [Snake](#snake)| [Ninja run](#ninja-run) | [Train "click"](#train-click)
+[Flappy brid](#flappy-brid-view-here) | [Snake](#snake-view-here)| [Ninja run](#ninja-run-view-here) | [Train "click"](#train-click-view-here)
 
 ## Flappy brid: [View here](https://github.com/Meoleodeo/SomeGameRemadeByPygame/tree/main/Flapppy_Bird)
 ![Demo](/img/image.png)![Demo1](/img/image-1.png)
